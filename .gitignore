@@ -4,5 +4,5 @@ __pycache__/
 .env
 .env.*
 !.env.example
-data/processed/
 *.bak
+
